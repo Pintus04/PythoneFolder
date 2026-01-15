@@ -10,4 +10,10 @@ print(location)
 print(PhoneNumber)
 
 print("My name is " + name)
-print("I am " + str(age) + " years old.")
+# print("I am " + str(age) + " years old.")
+print("my location is" + location )
+
+print(type(name))
+print(type(age))
+print(type(location))
+print(type(PhoneNumber))
