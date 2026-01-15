@@ -10,9 +10,3 @@
 ##mv learning.py python.py
 #
 
-echo "Git Pushing Commands"
-git add .
-git commit -m "latest code push"
-git push origin main
-
-done
