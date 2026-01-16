@@ -1,16 +1,27 @@
-# Print Mathematical words....
+a = 50
+b = 30
 
+# Arithmetic Operators
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
 
-#print "Print sum"
-a = 101
-b = 102
-c = 103
+# Relational Operators
+print(a == b)
+print(a != b)
+print(a < b)
+print(a > b)
+print(a >= b)
+print(a <= b)
 
-
-x = a+b
-y = c*a
-z = x+y
-
-print(x)
-print(y)
-print(z)
+# assignment Operators
+num = 10
+num = num + 10 #Second Method num += 10,  num -= 10, num *= 10, num %= 10. num **= 10
+#num += 10
+#num  -= 10
+#num *= 10
+print("Number will be : ", num)
