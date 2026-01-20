@@ -16,3 +16,5 @@ result = {
 # print(result.keys()) #return all keys
 # print(result.values()) #return all values
 #rint(len(result.keys()))
+result["subject"]["chemistry"] = 67 # adding new subject with marks
+print(result)
